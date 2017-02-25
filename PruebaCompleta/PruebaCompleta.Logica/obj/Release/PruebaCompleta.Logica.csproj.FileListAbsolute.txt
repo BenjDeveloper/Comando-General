@@ -1,0 +1,18 @@
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Logica.dll
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Logica.pdb
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Datos.dll
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Dominio.dll
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Datos.pdb
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Dominio.pdb
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.dll
+C:\Users\Leonardo\Google Drive\Desarrollo del Software 201314B\3ra Entrega\Ejemplos\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.pdb
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Logica.dll
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Logica.pdb
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Datos.dll
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Dominio.dll
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Datos.pdb
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\bin\Release\PruebaCompleta.Dominio.pdb
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.csprojResolveAssemblyReference.cache
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.dll
+C:\Users\benjamin\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Logica\obj\Release\PruebaCompleta.Logica.pdb

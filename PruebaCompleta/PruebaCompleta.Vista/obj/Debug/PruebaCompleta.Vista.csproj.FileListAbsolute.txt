@@ -1,0 +1,33 @@
+c:\users\maguca\documents\visual studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.dll
+c:\users\maguca\documents\visual studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.pdb
+c:\users\maguca\documents\visual studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.dll
+c:\users\maguca\documents\visual studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.csprojResolveAssemblyReference.cache
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.csprojResolveAssemblyReference.cache
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.pdb
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.dll
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Vista.pdb
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.dll
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.dll
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.dll
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Logica.pdb
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\bin\PruebaCompleta.Datos.pdb
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.csprojResolveAssemblyReference.cache
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.dll
+C:\Users\JulioRomero\Desktop\Ejemplo del comando general\PruebaCompleta\PruebaCompleta\PruebaCompleta.Vista\obj\Debug\PruebaCompleta.Vista.pdb
