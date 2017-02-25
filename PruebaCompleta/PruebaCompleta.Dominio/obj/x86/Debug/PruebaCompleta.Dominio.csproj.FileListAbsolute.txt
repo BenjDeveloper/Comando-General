@@ -1,0 +1,9 @@
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Dominio\bin\Debug\PruebaCompleta.Dominio.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Dominio\bin\Debug\PruebaCompleta.Dominio.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Dominio\obj\x86\Debug\PruebaCompleta.Dominio.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Dominio\obj\x86\Debug\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Dominio\bin\Debug\PruebaCompleta.Dominio.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Dominio\bin\Debug\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Dominio\obj\x86\Debug\PruebaCompleta.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Dominio\obj\x86\Debug\PruebaCompleta.Dominio.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Dominio\obj\x86\Debug\PruebaCompleta.Dominio.pdb

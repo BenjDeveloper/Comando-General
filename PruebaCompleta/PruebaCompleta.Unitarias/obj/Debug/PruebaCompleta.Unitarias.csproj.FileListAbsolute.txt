@@ -1,0 +1,21 @@
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Unitarias.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Unitarias.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\nunit.framework.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Datos.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Datos.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\nunit.framework.xml
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.csprojResolveAssemblyReference.cache
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.pdb
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Dominio.dll
+C:\Users\maguca\Documents\Visual Studio 2010\Projects\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Unitarias.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Unitarias.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Datos.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Dominio.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Datos.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\nunit.framework.xml
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\bin\Debug\PruebaCompleta.Dominio.pdb
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.csprojResolveAssemblyReference.cache
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.dll
+C:\Users\JulioRomero\Desktop\EjemploHechoEnClases\PruebaCompleta\PruebaCompleta\PruebaCompleta.Unitarias\obj\Debug\PruebaCompleta.Unitarias.pdb

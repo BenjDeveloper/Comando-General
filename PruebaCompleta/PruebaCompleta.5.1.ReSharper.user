@@ -1,0 +1,115 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Paginas/f:FormaPrueba.aspx" caret="728" fromTop="10" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Contratos/f:IContratoPrueba.cs" caret="176" fromTop="6" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Paginas/f:FormaPrueba.aspx.cs" caret="346" fromTop="10" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Fabricas/f:FabricaComandos.cs" caret="156" fromTop="5" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:FabricaDao.cs" caret="157" fromTop="5" />
+      <File id="CB636813-05DB-4057-A893-54A6A7634B43/f:Pruebas.cs" caret="227" fromTop="10" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:Comando.cs" caret="191" fromTop="9" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:Dao.cs" caret="139" fromTop="6" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:DaoDato.cs" caret="245" fromTop="11" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:ComandoCalcular.cs" caret="317" fromTop="5" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Presentadores/f:PresentadorPrueba.cs" caret="748" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Fabricas/f:FabricaComandos.cs" caret="254" fromTop="5" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:Comando.cs" caret="109" fromTop="1" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Fabricas/f:FabricaComandos.cs" caret="179" fromTop="5" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:Dao.cs" caret="95" fromTop="1" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:FabricaDao.cs" caret="178" fromTop="5" />
+      <File id="CB636813-05DB-4057-A893-54A6A7634B43/f:Pruebas.cs" caret="110" fromTop="3" />
+      <File id="CB636813-05DB-4057-A893-54A6A7634B43/f:Pruebas.cs" caret="282" fromTop="12" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:Comando.cs" caret="0" fromTop="0" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:Comando.cs" caret="171" fromTop="7" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:Dao.cs" caret="139" fromTop="6" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:DaoDato.cs" caret="132" fromTop="6" />
+      <File id="7E961351-1487-468E-B96C-85A1584A72A6/f:DaoDato.cs" caret="245" fromTop="11" />
+      <File id="B0A04654-ABE2-4D22-ABC6-90D1B16CBB01/d:Comandos/f:ComandoCalcular.cs" caret="317" fromTop="5" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Presentadores/f:PresentadorPrueba.cs" caret="52" fromTop="0" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Presentadores/f:PresentadorPrueba.cs" caret="504" fromTop="19" />
+      <File id="114BE698-A1B9-4167-BB49-9AE5314D69BD/d:Presentadores/f:PresentadorPrueba.cs" caret="725" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6.2\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="static" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="Comando" priority="0" />
+      <Item value="Dao`0" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="DaoDato`0" priority="2" />
+      <Item value="using" priority="1" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="PruebaFabricaDao`0" priority="0" />
+      <Item value="FabricaDao`0" priority="0" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="typeof" priority="0" />
+      <Item value="DaoDato" priority="0" />
+      <Item value="PruebaCompleta" priority="0" />
+      <Item value="Logica" priority="0" />
+      <Item value="Fabricas" priority="0" />
+      <Item value="FabricaComandos`0" priority="0" />
+      <Item value="elComando" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="DateTimeOffset`0" priority="1" />
+      <Item value="_vista" priority="1" />
+      <Item value="Dato" priority="0" />
+      <Item value="_valor" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="kilometros" priority="0" />
+      <Item value="elDao" priority="0" />
+      <Item value="elDato" priority="1" />
+      <Item value="Datos" priority="1" />
+      <Item value="resultado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PruebaCompleta.Datos.FabricaDao">
+      <Item value="CrearDaoDato`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="NotNull`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PruebaCompleta.Vista.Contratos.IContratoPrueba">
+      <Item value="Kilometros" priority="0" />
+      <Item value="Metros" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PruebaCompleta.Logica.Dominio.Dato">
+      <Item value="Valor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
